@@ -2,7 +2,7 @@
 ## Hardware
 Chassis and display come from an "On Air" lamp [available on Amazon](https://www.amazon.fr/Desconocido-Bo%C3%AEte-lumineuse-On-Air/dp/B01DXV0RFU/ref=sr_1_1?ie=UTF8&qid=1509556260&sr=8-1&keywords=on+air).
 
-![On Air lamp](./onairlamp2.png)
+![On Air lamp](./onairlamp2.jpg)
 
 Arduino compatible board used is a VROOM2 from Espressif (datasheet: http://www.microtechnica.tv/support/manual/ESP8266__WROOM_WiFi_Module_Datasheet__EN_v0.3.pdf) handled by the "Generic ESP8266" module.
 
