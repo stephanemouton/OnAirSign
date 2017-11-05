@@ -48,7 +48,7 @@ With the schematic used, please follow the steps below. The snapshot of a mounte
 * **Continue to press the PROG button for at least 2 seconds** after release of the RESET button
 * ESP8266 module is now in download mode, awaiting sketch. Push on the "download" arrow of the Arduino IDE to send the sketch.
 * At the end of download, **press again on the RESET button** so that the ESP8266 leaves download mode and restart in operation mode.
-* Enjoy!
+
 
 ![On AIr Sketch Installation](./Doc/OnAIrSketchInstallation.png)
 
@@ -57,10 +57,14 @@ With the schematic used, please follow the steps below. The snapshot of a mounte
 Add a button in your Blynk project with the following settings :
 * output is GPIO port 4 (GP4)
 * use "switch" mode
+
 ![Blynk button configuration](./Doc/Blynk_button_configuration.png)
 
 Once everything is ready, run you app and your Blynk app should look like screenshot below.
+
 ![Blynk application running](./Doc/Blynk_button_running.png)
+
+You are now able to control your "On Air" sign from your smartphone. Enjoy!
 
 ### Using Blynk service, with OTA ESP8266 configuration
 
